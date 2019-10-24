@@ -9,3 +9,5 @@ Overall, this is the app:
 Hits and fetches repo information from the Github API, it then does some maths and ranks the Repos based on Popularity, additionally there is a Github user Battle feature which fetches two Github users profile data, more magic maths assigns a score and compares those profiles. A winner emmerges. 
 
 From here, I am diving deeper into Javascript, then revisiting both this courses sequel on Hooks, and digging deeper into Context API, and Hooks with Pauz, where I am excited to get back into the newer features of React and building my knowledge in Databases with GraphQL, and Apollo, and SQL. (eventually)
+
+I'll begin the HackerNews API curriculum tomorrow (10/24), utilizing my own preferred tools, like 'create-react-app' and I intend to avoid calling super(props), and having to bind.this.
